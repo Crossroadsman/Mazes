@@ -26,3 +26,15 @@ class BinaryTreeMaze():
 
     # Carve the route
     # ---------------
+
+    
+    
+class SidewinderMaze():
+    """Sidewinder
+       ==========
+    Another simple and fast method for creating a perfect maze.
+    As with Binary Tree has some biases:
+    - the north edge is a corridor
+    - it is very easy to get south to north
+    """
+    
